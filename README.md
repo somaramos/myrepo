@@ -1,2 +1,1 @@
-# myrepoA line I wrote on my local computer
-A line I wrote on my local computer
+A series of projects done in my undergraduate experience. 
